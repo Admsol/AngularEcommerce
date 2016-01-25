@@ -1,0 +1,37 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+body {
+	padding-top: 0;
+	font-family: Roboto;
+}
+
+.navbar_search_text {
+	display: inline;
+	color: #777777;
+	margin-left: 90px;
+}
+
+.navbar_search_input {
+	width: 270px;
+	margin-left: 10px;
+}
+
+.main_item_name {
+	text-align: center;
+	padding: 14px;
+	padding-top: 5px;
+}
+
+.main_item_panel {
+	text-align: center;
+}
+
+.main_item_number {
+	display: inline-block;
+	text-align: center;
+    margin-top: 19px;
+}

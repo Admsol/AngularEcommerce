@@ -1,0 +1,22 @@
+{
+  "name": "AngularAppStore",
+  "version": "1",
+  "authors": [
+    "Pierre <pierre@moneypush.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-button": "PolymerElements/paper-button#~1.0.8"
+  }
+}
