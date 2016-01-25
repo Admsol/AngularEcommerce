@@ -1,15 +1,14 @@
-# AngularAppstore
+# AngularE-commerce
 
 Angular-JS training project.
 
-<a href="http://admsol.github.io/AngularAppstore/">DEMO</a>
+<a href="#">DEMO (coming soon)</a>
 
-Mini-appstore made in AngularJS.
+Mini-e-commerce website in Angularjs
 
 <b>Stack:</b>
 
- - AngularJS/HTML5/SASS.
-- Bootstrap 3/Animations.
-- Constructor & Factory Pattern.
+- AngularJS/HTML5/SASS.
+- Jasmine/Unit testing
 
 License: MIT.
