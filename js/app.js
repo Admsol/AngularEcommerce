@@ -1,4 +1,4 @@
-angular.module("appstoreApp", []);
+angular.module("appstoreApp", ['angular-toArrayFilter']);
 (function () {
 
 	angular
@@ -44,6 +44,8 @@ angular.module("appstoreApp", []);
 			}
 
 		};
+      
+      console.table($scope.productList);
 
 		$scope.deleteProduct = function(number) {
 			var name = "product" + number;

@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "paper-button": "PolymerElements/paper-button#~1.0.8"
+    "paper-button": "PolymerElements/paper-button#~1.0.8",
+    "angular-toArrayFilter": "~1.0.1"
   }
 }
