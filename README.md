@@ -2,7 +2,7 @@
 
 Angular-JS training project.
 
-<a href="#">DEMO (coming soon)</a>
+<a href="http://admsol.github.io/AngularEcommerce/" target="_blank"> DEMO </a>
 
 Mini-e-commerce website in Angularjs
 
